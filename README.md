@@ -7,7 +7,7 @@ I will soon release a discord bot that uses ai (will cost no more than 1 cent a 
 git clone https://github.com/LJK2git/Reverse-Stock-Split-Search-Simple.git
 
 # Enter the project folder
-cd Reverse-Stock-Split-Searcher
+cd Reverse-Stock-Split-Searcher-Simple
 
 # Create a virtual environment
 python -m venv venv
