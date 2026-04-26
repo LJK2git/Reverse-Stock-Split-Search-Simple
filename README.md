@@ -4,7 +4,7 @@ Install Guide all in terminal.
 I will soon release a discord bot that uses ai (will cost no more than 1 cent a day to run), the bot will find a lot more splits than what this script will find.
 ```bash
 # Clone the repository
-git clone https://github.com/LJK2git/Reverse-Stock-Split-Searcher.git
+git clone https://github.com/LJK2git/Reverse-Stock-Split-Search-Simple.git
 
 # Enter the project folder
 cd Reverse-Stock-Split-Searcher
